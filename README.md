@@ -1,12 +1,21 @@
 # Changseok Lee
 <center>
 
-![kakao](https://img.shields.io/badge/KakaoTalk%20Profile-kakao?style=flat&logo=KakaoTalk&color=black&link=http%3A%2F%2Fqr.kakao.com%2Ftalk%2FJTtWfr25pfiqwFGWVncnIRwLdIQ-)
-![linkedin](https://img.shields.io/badge/LinkedIn%20Profile-kakao?style=flat&logo=LinkedIn&logoColor=white&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcslee0052)
-![researchgate](https://img.shields.io/badge/ResearchGate%20Profile-Research?style=flat&logo=ResearchGate&logoColor=white&color=black&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FChangseok-Lee-6)
-![orcird](https://img.shields.io/badge/ORCID%20Profile-Research?style=flat&logo=ORCID&logoColor=white&color=black&link=https%3A%2F%2Forcid.org%2F0000-0002-8825-5571)
-![gmail](https://img.shields.io/badge/Gmail-gmail?style=flat&logo=Gmail&logoColor=white&color=black&link=mailto%3Ackdckd145%40gmail.com)
-
+<a href="http://qr.kakao.com/talk/JTtWfr25pfiqwFGWVncnIRwLdIQ-" target="_blank">
+    <img src="https://img.shields.io/badge/KakaoTalk%20Profile-kakao?style=flat&logo=KakaoTalk&color=black">
+</a>
+<a href="https://www.linkedin.com/in/cslee0052" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-kakao?style=flat&logo=LinkedIn&logoColor=white&color=black">
+</a>
+<a href="https://www.researchgate.net/profile/Changseok-Lee-6" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate%20Profile-Research?style=flat&logo=ResearchGate&logoColor=white&color=black">
+</a>
+<a href="https://orcid.org/0000-0002-8825-5571" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID%20Profile-Research?style=flat&logo=ORCID&logoColor=white&color=black">
+</a>
+<a href="mailto:ckdckd145@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-gmail?style=flat&logo=Gmail&logoColor=white&color=black">
+</a>
 </center>
 
 ## Education
